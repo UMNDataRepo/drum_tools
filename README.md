@@ -39,7 +39,7 @@ Valerie Collins - [University of Minnesota Libraries](https://www.lib.umn.edu/ab
 
 Kent Gerber - [University of Minnesota Libraries](https://www.lib.umn.edu/about/staff/kent-gerber)
 
-Haniya Abuad - University of Minnesota
+Haniya Abuad - University of Minnesota, Fall 2024
 
 ## License
 
